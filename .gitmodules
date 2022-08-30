@@ -1,6 +1,7 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend/
+	url = https://github.com/rekib0023/expense_sharing_backend
+
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/rekib0023/expense_sharing_frontend

@@ -1,7 +1,10 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/rekib0023/expense_sharing_backend
+	branch = main
 
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/rekib0023/expense_sharing_frontend
+	branch = main
+
